@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Controladoria Municipal com IA",
+  "description": "Um sistema modular e integrado para a Controladoria-Geral do Município (CGM), utilizando IA para análise de documentos, geração de pareceres e fomento à integridade, baseado na Lei 040/2025.",
+  "requestFramePermissions": []
+}
